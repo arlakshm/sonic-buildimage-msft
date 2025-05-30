@@ -5,7 +5,7 @@
 [submodule "sonic-linux-kernel"]
 	path = src/sonic-linux-kernel
 	url = https://github.com/Azure/sonic-linux-kernel.msft
-	branch = 202412
+	branch = 202503
 [submodule "sonic-sairedis"]
 	path = src/sonic-sairedis
 	url = https://github.com/Azure/sonic-sairedis.msft
